@@ -85,12 +85,14 @@ python ETL.py
 
     Agenda a execução automática diariamente às 09:40
 
-🗃 Exemplo de saída (tabela gerada)
-name	price
-bitcoin	95369
-ethereum	1824.86
-solana	146.84
-monero	277.57
+## 📊 Exemplo de Saída
+
+| Name     | Price   |
+|----------|---------|
+| Bitcoin  | 95369   |
+| Ethereum | 1824.86 |
+| Solana   | 146.84  |
+| Monero   | 277.57  |
 
 📝 Licença
 
