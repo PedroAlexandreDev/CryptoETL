@@ -41,7 +41,7 @@ etl_cryptopreco/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/etl_cryptopreco.git
+https://github.com/PedroAlexandreDev/CryptoETL.git
 cd etl_cryptopreco
 ```
 
