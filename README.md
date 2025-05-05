@@ -104,6 +104,4 @@ Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para detal
 1. Crie um arquivo chamado `requirements.txt` no seu repositório e adicione as dependências nele.
 2. Crie ou edite o arquivo `README.md` no seu repositório com o conteúdo acima.
 
-Se precisar de mais algum ajuste, só avisar!
-
 
